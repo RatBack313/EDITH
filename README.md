@@ -1,0 +1,2 @@
+# EDITH
+Smart AI Assistant
